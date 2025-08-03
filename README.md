@@ -1,11 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Abdul Raheem</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulraheem234&label=Profile%20views&color=0e75b6&style=flat" alt="abdulraheem234" /> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulra96793600" target="blank"><img src="https://img.shields.io/twitter/follow/abdulra96793600?logo=twitter&style=for-the-badge" alt="abdulra96793600" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulraheem234" alt="abdulraheem234" /></a> </p>
 
 - 📫 How to reach me **abdulrahem20053@gmail.com**
 
@@ -13,7 +11,10 @@
 <p align="left">
 <a href="https://twitter.com/abdulra96793600" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulra96793600" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul raheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul raheem" height="30" width="40" /></a>
+<a href="https://kaggle.com/abdulraheem67665!" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdulraheem67665!" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_raheem_2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_raheem_2005" height="30" width="40" /></a>
+<a href="https://www.behance.net/abdul raheem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdul raheem" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@abdulrahem20053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abdulrahem20053" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
